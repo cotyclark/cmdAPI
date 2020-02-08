@@ -1,0 +1,14 @@
+C:\Users\Coty\Desktop\code2020\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+C:\Users\Coty\Desktop\code2020\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+C:\Users\Coty\Desktop\code2020\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+C:\Users\Coty\Desktop\code2020\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\Coty\Desktop\code2020\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\Coty\Desktop\code2020\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
